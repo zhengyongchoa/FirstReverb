@@ -1,0 +1,6 @@
+/Users/momo/Desktop/cpp/sndfilter/build/CMakeFiles/rebuild_cache.dir
+/Users/momo/Desktop/cpp/sndfilter/build/CMakeFiles/edit_cache.dir
+/Users/momo/Desktop/cpp/sndfilter/build/CMakeFiles/Demo.dir
+/Users/momo/Desktop/cpp/sndfilter/build/src/CMakeFiles/rebuild_cache.dir
+/Users/momo/Desktop/cpp/sndfilter/build/src/CMakeFiles/edit_cache.dir
+/Users/momo/Desktop/cpp/sndfilter/build/src/CMakeFiles/NB_zyc.dir

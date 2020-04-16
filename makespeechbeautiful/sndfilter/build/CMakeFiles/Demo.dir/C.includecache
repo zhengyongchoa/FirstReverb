@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/momo/Desktop/cpp/sndfilter/src/biquad.h
+snd.h
+/Users/momo/Desktop/cpp/sndfilter/src/snd.h
+
+/Users/momo/Desktop/cpp/sndfilter/src/compressor.h
+snd.h
+/Users/momo/Desktop/cpp/sndfilter/src/snd.h
+
+/Users/momo/Desktop/cpp/sndfilter/src/main0.c
+wav.h
+/Users/momo/Desktop/cpp/sndfilter/src/wav.h
+biquad.h
+/Users/momo/Desktop/cpp/sndfilter/src/biquad.h
+compressor.h
+/Users/momo/Desktop/cpp/sndfilter/src/compressor.h
+reverb.h
+/Users/momo/Desktop/cpp/sndfilter/src/reverb.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/Users/momo/Desktop/cpp/sndfilter/src/reverb.h
+snd.h
+/Users/momo/Desktop/cpp/sndfilter/src/snd.h
+
+/Users/momo/Desktop/cpp/sndfilter/src/snd.h
+stdbool.h
+-
+
+/Users/momo/Desktop/cpp/sndfilter/src/wav.h
+snd.h
+/Users/momo/Desktop/cpp/sndfilter/src/snd.h
+
